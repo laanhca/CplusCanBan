@@ -21,10 +21,10 @@
     <ClInclude Include="Player.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BotRandom.h">
+    <ClInclude Include="BotToolKit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BotThuaPlayer.h">
+    <ClInclude Include="BotGame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,10 +35,10 @@
     <ClCompile Include="Player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BotRandom.cpp">
+    <ClCompile Include="BotToolKit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BotThuaPlayer.cpp">
+    <ClCompile Include="BotGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

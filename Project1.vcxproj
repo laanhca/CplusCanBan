@@ -139,14 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="BotRandom.h" />
-    <ClInclude Include="BotThuaPlayer.h" />
+    <ClInclude Include="BotGame.h" />
+    <ClInclude Include="BotToolKit.h" />
     <ClInclude Include="Main.h" />
     <ClInclude Include="Player.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BotRandom.cpp" />
-    <ClCompile Include="BotThuaPlayer.cpp" />
+    <ClCompile Include="BotGame.cpp" />
+    <ClCompile Include="BotToolKit.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Player.cpp" />
   </ItemGroup>
